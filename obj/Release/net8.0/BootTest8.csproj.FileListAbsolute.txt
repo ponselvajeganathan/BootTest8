@@ -1023,9 +1023,6 @@ D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\9m7qfvzj31-{0}-tjcz
 D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\rt91rhcymk-{0}-tptq2av103-tptq2av103.gz
 D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\sjzhq31h3d-{0}-lfu7j35m59-lfu7j35m59.gz
 D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\64r1kp9g2e-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\eigyxcc0e3-{0}-ucyyw5zw7a-ucyyw5zw7a.gz
-D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\6dfcp8s0ea-{0}-x4zv4corw1-x4zv4corw1.gz
-D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\wg81ylj4f5-{0}-w9wmslwtny-w9wmslwtny.gz
 D:\Github deployment\BootTest8\obj\Release\net8.0\staticwebassets.build.json
 D:\Github deployment\BootTest8\obj\Release\net8.0\staticwebassets.build.json.cache
 D:\Github deployment\BootTest8\obj\Release\net8.0\staticwebassets.development.json
@@ -1036,3 +1033,7 @@ D:\Github deployment\BootTest8\obj\Release\net8.0\BootTest8.dll
 D:\Github deployment\BootTest8\obj\Release\net8.0\refint\BootTest8.dll
 D:\Github deployment\BootTest8\obj\Release\net8.0\BootTest8.pdb
 D:\Github deployment\BootTest8\obj\Release\net8.0\ref\BootTest8.dll
+D:\Github deployment\BootTest8\obj\Release\net8.0\BootTest8.sourcelink.json
+D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\eigyxcc0e3-{0}-6u45d0xucy-6u45d0xucy.gz
+D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\6dfcp8s0ea-{0}-x92o78tjbo-x92o78tjbo.gz
+D:\Github deployment\BootTest8\obj\Release\net8.0\compressed\wg81ylj4f5-{0}-s12isn1xva-s12isn1xva.gz

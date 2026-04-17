@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BootTest8",
   "resources": {
-    "hash": "sha256-wSJQ91u0ImKgkGALc3aJOhYBcIxahl5JIM2/j/nrXt0=",
+    "hash": "sha256-3OlZo1YuSxBzMPARDje+yCh5mCW/IOIcDwfMVVWsq04=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-nElGk+CZFyq0PbPm4JU8avD6lER7x9Z1C54BK7qY12Q="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-UzRTTeY8BezBltrUF59UgvVNxbmnZS3LeowarsPY8+Y=",
       "netstandard.wasm": "sha256-xHQSNwqHm8E9DM86qW7CTJoRXXsQuGmPeNipDwQFNr8=",
       "System.Private.CoreLib.wasm": "sha256-N9/Djwpe2mX4HdyhCGu9jrxG/DSYKoTPbtsIOv6VFDk=",
-      "BootTest8.wasm": "sha256-kpk32FoJw+219YbAwLhU6Fb1SCHXtJUYAq0KTbH6GZk="
+      "BootTest8.wasm": "sha256-Qpvus70jb8eq3UrEH8fNzeQ4zFJiu8FyGiY1CH46M1M="
     },
     "pdb": {
-      "BootTest8.pdb": "sha256-oTcbJWDa0Jd25h02gtTjD3+8qu3a+8/EMVVcuMbiigA="
+      "BootTest8.pdb": "sha256-hTi464qYApcy1MlLP2A5ZLApgLZvfYjfw+vZnucRVOI="
     }
   },
   "cacheBootResources": true,

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BootTest8",
   "resources": {
-    "hash": "sha256-Y2XXu7+fq0+TgXpOTZW4RPPC2SYXKPRm5WR0cEWss2A=",
+    "hash": "sha256-gFKacNMxC4VeLAPSzZIxXLzfZ0qyCybqrbEhiG/2NgE=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-nElGk+CZFyq0PbPm4JU8avD6lER7x9Z1C54BK7qY12Q="
     },
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-SZemf92IJVOlNAQ+bUVDy5bf0rAvmG4yTQwQsqrSAY8=",
       "System.Text.RegularExpressions.wasm": "sha256-NL5sBkQtOmwbpwZ0yb6AlsOfFlNN4wrT6EdNssIKLIg=",
       "System.Private.CoreLib.wasm": "sha256-1GiTfdF4G6pATc8Z4s3GDMDHPQRJkJOJ+ncONX51z2g=",
-      "BootTest8.wasm": "sha256-kpk32FoJw+219YbAwLhU6Fb1SCHXtJUYAq0KTbH6GZk="
+      "BootTest8.wasm": "sha256-Qpvus70jb8eq3UrEH8fNzeQ4zFJiu8FyGiY1CH46M1M="
     }
   },
   "cacheBootResources": true,

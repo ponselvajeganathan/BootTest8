@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BootTest8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ed1fe6721c5d1e697c63d87ce5bc169a7be8a08")]
 [assembly: System.Reflection.AssemblyProductAttribute("BootTest8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BootTest8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
